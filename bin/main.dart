@@ -1,5 +1,7 @@
 // Challenge 1
 // Write failing test cases for the next two challenges
+// Test cases for challenge 3 with empty list (return false), 1 element list (return true) and 2 element list (return true)
+
 
 // Challenge 2
 // All Pairs that Sum to Target
